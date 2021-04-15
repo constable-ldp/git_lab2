@@ -3,5 +3,5 @@ const helloWorld = (name = "World") => {
 }
 
 const funTest = () => {
-  return "Hello!"
+  return "Test!"
 }
